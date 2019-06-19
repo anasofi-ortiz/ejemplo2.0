@@ -1,4 +1,5 @@
-# ejemplo2.0
+# Tarea 2. Proyecto Colaborativo
+
 Ejemplo ilustrativo de G
 
 Semana 2
